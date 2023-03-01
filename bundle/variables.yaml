@@ -1,0 +1,4 @@
+variables:
+- team: bgarrett-kubedemo2023
+- admin-user: billgarrett-admin
+- manager-user: billgarrett
